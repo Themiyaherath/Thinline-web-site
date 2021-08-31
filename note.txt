@@ -1,0 +1,9 @@
+#2D7BBC blue
+#FFDF3D yellow
+
+navigation bar border color (top and bottom) #D3D3D3 light gray
+
+b_intro1 
+background colur #343434 dark gray
+h1 color #E6E6E6
+body color
